@@ -2,6 +2,8 @@
 
 This is an implementation of a simple bank account code kata in C# and .NET Core.
 
+It is recommended to use test-driven development to drive out your design.
+
 ## Goal
 
 Create an `AccountService` class that has the following methods:
