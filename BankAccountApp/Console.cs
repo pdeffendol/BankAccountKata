@@ -8,7 +8,7 @@ namespace BankAccountApp
     {
         public void WriteLine(string line)
         {
-            throw new NotImplementedException();
+            System.Console.WriteLine(line);
         }
     }
 }
